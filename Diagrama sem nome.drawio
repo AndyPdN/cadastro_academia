@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-31T19:17:43.560Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="011Dk4aE6LmC5jld6f6w" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-31T19:19:00.555Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="JZQ9Fr7HqRWyxneCb_No" version="21.6.6" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
     <mxGraphModel dx="1050" dy="1360" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -17,12 +17,12 @@
           <mxGeometry x="780" y="-690" width="190" height="100" as="geometry" />
         </mxCell>
         <mxCell id="9mMzv8kGYhpnHZXloyjv-77" value="&lt;b&gt;UC02- Visualizar uma prévia dos exercícios&amp;nbsp;&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="-310" width="340" height="680" as="geometry">
+          <mxGeometry x="620" y="-310" width="340" height="690" as="geometry">
             <mxRectangle x="350" y="-340" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9mMzv8kGYhpnHZXloyjv-103" value="&lt;b&gt;Pré-condições&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="9mMzv8kGYhpnHZXloyjv-77">
-          <mxGeometry y="30" width="340" height="650" as="geometry">
+          <mxGeometry y="30" width="340" height="660" as="geometry">
             <mxRectangle y="30" width="340" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -33,7 +33,7 @@
           <mxGeometry y="60" width="340" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9mMzv8kGYhpnHZXloyjv-113" value="&lt;b style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;Cenários&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="9mMzv8kGYhpnHZXloyjv-103">
-          <mxGeometry y="90" width="340" height="560" as="geometry">
+          <mxGeometry y="90" width="340" height="570" as="geometry">
             <mxRectangle y="120" width="340" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -56,22 +56,19 @@
           <mxGeometry y="290" width="340" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9mMzv8kGYhpnHZXloyjv-159" value="&lt;b&gt;Fluxo Alternativo&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="9mMzv8kGYhpnHZXloyjv-113">
-          <mxGeometry y="340" width="340" height="220" as="geometry" />
+          <mxGeometry y="340" width="340" height="230" as="geometry" />
         </mxCell>
         <mxCell id="9mMzv8kGYhpnHZXloyjv-160" value="&lt;b&gt;1.&lt;/b&gt; Se o usuário não estiver autenticado no aplicativo (passo 1), o sistema solicitará que ele faça login ou se registre antes de acessar as informações dos exercícios." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="9mMzv8kGYhpnHZXloyjv-159">
           <mxGeometry y="30" width="340" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="9mMzv8kGYhpnHZXloyjv-163" value="Pós-condições" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="9mMzv8kGYhpnHZXloyjv-159">
-          <mxGeometry y="100" width="340" height="120" as="geometry" />
+        <mxCell id="9mMzv8kGYhpnHZXloyjv-163" value="&lt;b&gt;Pós-condições&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="9mMzv8kGYhpnHZXloyjv-159">
+          <mxGeometry y="100" width="340" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="9mMzv8kGYhpnHZXloyjv-164" value="Item 1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="9mMzv8kGYhpnHZXloyjv-163">
-          <mxGeometry y="30" width="340" height="30" as="geometry" />
+        <mxCell id="9mMzv8kGYhpnHZXloyjv-164" value="&lt;b&gt;1.&lt;/b&gt; O usuário obteve informações sobre os exercícios disponíveis na academia Sesc." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="9mMzv8kGYhpnHZXloyjv-163">
+          <mxGeometry y="30" width="340" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="9mMzv8kGYhpnHZXloyjv-165" value="Item 2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="9mMzv8kGYhpnHZXloyjv-163">
-          <mxGeometry y="60" width="340" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="9mMzv8kGYhpnHZXloyjv-166" value="Item 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="9mMzv8kGYhpnHZXloyjv-163">
-          <mxGeometry y="90" width="340" height="30" as="geometry" />
+        <mxCell id="9mMzv8kGYhpnHZXloyjv-165" value="&lt;b&gt;2. &lt;/b&gt;O usuário pode tomar uma decisão informada sobre quais exercícios deseja participar." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="9mMzv8kGYhpnHZXloyjv-163">
+          <mxGeometry y="80" width="340" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9mMzv8kGYhpnHZXloyjv-87" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#60a917;strokeColor=#2D7600;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
