@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-31T18:48:15.392Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="5VGKeKsctHUCs_uKw91M" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-31T18:54:52.000Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="ky2O_WQEMpxZGzWa1AgE" version="21.6.6" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
     <mxGraphModel dx="1050" dy="1360" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -7,10 +7,10 @@
         <mxCell id="9mMzv8kGYhpnHZXloyjv-41" value="Membro da academia" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="60" y="-550" width="40" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="9mMzv8kGYhpnHZXloyjv-53" value="&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;Verificar pagamentos através do SMS&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9mMzv8kGYhpnHZXloyjv-53" value="Ficha de cadastro" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="-790" width="190" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="9mMzv8kGYhpnHZXloyjv-150" value="Cadastrar número de telefone" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9mMzv8kGYhpnHZXloyjv-150" value="Realiza login" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="-790" width="190" height="100" as="geometry" />
         </mxCell>
         <mxCell id="9mMzv8kGYhpnHZXloyjv-153" value="Notificações" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -70,10 +70,10 @@
         <mxCell id="9mMzv8kGYhpnHZXloyjv-87" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="110" y="-550" as="sourcePoint" />
-            <mxPoint x="210" y="-600" as="targetPoint" />
+            <mxPoint x="220" y="-610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9mMzv8kGYhpnHZXloyjv-88" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="9mMzv8kGYhpnHZXloyjv-88" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="80" y="-570" as="sourcePoint" />
             <mxPoint x="150" y="-680" as="targetPoint" />
@@ -125,7 +125,7 @@
           <mxGeometry x="237.75" y="-530" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="9mMzv8kGYhpnHZXloyjv-147" value="Trocar moedas por itens&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="-420" width="200" height="100" as="geometry" />
+          <mxGeometry x="210" y="-420" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="9mMzv8kGYhpnHZXloyjv-145" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -136,7 +136,7 @@
         <mxCell id="9mMzv8kGYhpnHZXloyjv-146" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="110" y="-430" as="sourcePoint" />
-            <mxPoint x="210" y="-380" as="targetPoint" />
+            <mxPoint x="190" y="-390" as="targetPoint" />
             <Array as="points">
               <mxPoint x="140" y="-400" />
             </Array>
