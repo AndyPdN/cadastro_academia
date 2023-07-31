@@ -1,17 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2023-07-31T18:31:49.901Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="s4siBIXiTa1Dj07BexwU" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-31T18:38:14.144Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="MsXd4475TWVk6bFCjIVa" version="21.6.6" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
     <mxGraphModel dx="1050" dy="1360" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="9mMzv8kGYhpnHZXloyjv-41" value="Membro da academia" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="130" y="-550" width="40" height="80" as="geometry" />
+          <mxGeometry x="60" y="-550" width="40" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9mMzv8kGYhpnHZXloyjv-53" value="Realiza login" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="395.5" y="-630" width="190" height="100" as="geometry" />
+          <mxGeometry x="150" y="-790" width="190" height="100" as="geometry" />
         </mxCell>
         <mxCell id="9mMzv8kGYhpnHZXloyjv-60" value="Visualizar uma prévia dos exercícios&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="-450" width="195.5" height="100" as="geometry" />
+          <mxGeometry x="237.75" y="-680" width="195.5" height="100" as="geometry" />
         </mxCell>
         <mxCell id="9mMzv8kGYhpnHZXloyjv-77" value="&lt;b&gt;UC02- Visualizar uma prévia dos exercícios&amp;nbsp;&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="-310" width="340" height="420" as="geometry">
@@ -63,14 +63,14 @@
         </mxCell>
         <mxCell id="9mMzv8kGYhpnHZXloyjv-87" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="230" y="-450" as="sourcePoint" />
-            <mxPoint x="380" y="-410" as="targetPoint" />
+            <mxPoint x="110" y="-550" as="sourcePoint" />
+            <mxPoint x="220" y="-610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9mMzv8kGYhpnHZXloyjv-88" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="230" y="-540" as="sourcePoint" />
-            <mxPoint x="380" y="-560" as="targetPoint" />
+            <mxPoint x="80" y="-570" as="sourcePoint" />
+            <mxPoint x="150" y="-680" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
@@ -121,6 +121,24 @@
         </mxCell>
         <mxCell id="9mMzv8kGYhpnHZXloyjv-136" value="&lt;b&gt;E1.&lt;/b&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="9mMzv8kGYhpnHZXloyjv-128">
           <mxGeometry y="240" width="340" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9mMzv8kGYhpnHZXloyjv-144" value="Acumular moedas dentro do aplicativo&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="235.5" y="-560" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="9mMzv8kGYhpnHZXloyjv-147" value="Trocar moedas por itens&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="-430" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="9mMzv8kGYhpnHZXloyjv-145" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="-510" as="sourcePoint" />
+            <mxPoint x="220" y="-510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9mMzv8kGYhpnHZXloyjv-146" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="-430" as="sourcePoint" />
+            <mxPoint x="200" y="-400" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
